@@ -1,0 +1,2 @@
+Randomly generate a four-digit non-digit-repeating sans-zero number. 
+The user inputs a guess, and the program returns a “pico” for every correct digit in the wrong position, a “fermi” for every correct digit in the correct position, “bagel” for no correct digits, or “cream cheese” for a correct guess.
